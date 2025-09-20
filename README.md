@@ -1,14 +1,4 @@
-<!-- 
-    CS20006 Assignment 5
-    README.md
-    @author Ashutosh Kumar Singh (19CS30008) 
--->
-
-<!-- It is preferable to view the README file in a preview mode in some code editor for better readability. -->
-
 # Railway Booking System
-
-A rudimentary railway booking / reservation system designed by **Ashutosh Kumar Singh (19CS30008)** as an assignment in the Software Engineering Theory (CS20006) course.
 
 This README file contains the details of the various header and source files used. It also has the instructions to compile and build the entire project and the instructions to compile and run the unit tests for each class. 
 
@@ -209,5 +199,6 @@ $ ./test
 ```shell
 $ g++ -std=c++11 Station.cpp Railways.cpp Date.cpp Gender.cpp Name.cpp Passenger.cpp BookingClass.cpp BookingCategory.cpp Concession.cpp Booking.cpp Exceptions.cpp UnitTestBooking.cpp -o test
 $ ./test
-```#   R a i l w a y - B o o k i n g - S y s t e m  
+```#   R a i l w a y - B o o k i n g - S y s t e m 
+ 
  
